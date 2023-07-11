@@ -12,3 +12,13 @@ email3@example.com
 Exemplo:
 
 Assunto do e-mail
+
+# 3/ "corpo.txt": O arquivo pode conter várias linhas com o corpo do e-mail.
+Exemplo:
+
+Olá,
+
+Este é o corpo do e-mail. Testando o envio automático de e-mails.
+
+Atenciosamente,
+Seu Nome
